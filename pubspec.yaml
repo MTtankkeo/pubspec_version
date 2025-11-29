@@ -1,8 +1,8 @@
-name: pubspec_version
+name: pubspec_version_tool
 description: A Dart CLI to manage and update the version in pubspec.yaml
 version: 1.0.0
 publisher: ttankkeo112@gmail.com
-repository: https://github.com/MTtankkeo/pubspec_version
+repository: https://github.com/MTtankkeo/pubspec_version_tool
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
